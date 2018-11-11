@@ -11,4 +11,3 @@ The game has 2 modes: Single player (against COM), and Multiplayer mode (Online)
 ![2](/Screenshots/2.png)
 ![3](/Screenshots/3.png)
 ![4](/Screenshots/4.png)
-###### Made By Yoav Saroya
