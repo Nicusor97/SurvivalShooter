@@ -16,6 +16,7 @@ public class MultiPlayerManager: Singleton<MultiPlayerManager> {
     private string realEnemyUsername = string.Empty;
     private List<string> rooms;
     private int index = 0;
+	//private List<string> unique_rooms;
 
 
     //
